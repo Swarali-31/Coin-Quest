@@ -1,6 +1,6 @@
 # Coin Quest: The Lost Temple
 
-This Unity 2022.3 project builds a playable third-person island adventure when you press Play in `Assets/Scenes/SampleScene.unity`. Its world, player, camera, menu, HUD, and objectives are created by the runtime bootstrap, so that scene can stay intentionally simple.
+An island adventure when you press Play in `Assets/Scenes/SampleScene.unity`. Its world, player, camera, menu, HUD, and objectives are created by the runtime bootstrap, so that scene can stay intentionally simple.
 
 ## Play
 
